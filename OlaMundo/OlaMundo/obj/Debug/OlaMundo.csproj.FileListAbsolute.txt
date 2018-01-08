@@ -1,0 +1,9 @@
+c:\users\csharp7358\documents\visual studio 2017\Projects\OlaMundo\OlaMundo\bin\Debug\OlaMundo.exe.config
+c:\users\csharp7358\documents\visual studio 2017\Projects\OlaMundo\OlaMundo\bin\Debug\OlaMundo.exe
+c:\users\csharp7358\documents\visual studio 2017\Projects\OlaMundo\OlaMundo\bin\Debug\OlaMundo.pdb
+c:\users\csharp7358\documents\visual studio 2017\Projects\OlaMundo\OlaMundo\obj\Debug\OlaMundo.csprojResolveAssemblyReference.cache
+c:\users\csharp7358\documents\visual studio 2017\Projects\OlaMundo\OlaMundo\obj\Debug\OlaMundo.Properties.Resources.resources
+c:\users\csharp7358\documents\visual studio 2017\Projects\OlaMundo\OlaMundo\obj\Debug\OlaMundo.csproj.GenerateResource.Cache
+c:\users\csharp7358\documents\visual studio 2017\Projects\OlaMundo\OlaMundo\obj\Debug\OlaMundo.exe
+c:\users\csharp7358\documents\visual studio 2017\Projects\OlaMundo\OlaMundo\obj\Debug\OlaMundo.pdb
+c:\users\csharp7358\documents\visual studio 2017\Projects\OlaMundo\OlaMundo\obj\Debug\OlaMundo.Form1.resources
