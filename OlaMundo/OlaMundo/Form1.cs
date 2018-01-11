@@ -174,6 +174,71 @@ namespace OlaMundo
             }
 
         }
+
+        private void button11_Click(object sender, EventArgs e)
+        {
+            Conta contaLeonardo = new Conta();
+            Cliente cliente = new Cliente();
+            contaLeonardo.Titular = cliente;
+            contaLeonardo.Titular.nome = " Leonardo ";
+            contaLeonardo.Idade = 28;
+            contaLeonardo.Numero = 1;
+            contaLeonardo.Deposita(200);
+            MessageBox.Show("Saldo da conta" + contaLeonardo.Titular + " é de " + contaLeonardo.Saldo);
+            contaLeonardo.Saca(50.00);
+            MessageBox.Show("Saldo da conta" + contaLeonardo.Titular + " é de " + contaLeonardo.Saldo);
+
+            Conta contaMaria = new Conta();
+            Cliente cliente2 = new Cliente();
+            contaMaria.Titular = cliente2;
+            contaMaria.Titular.nome = "Maria";
+            contaMaria.Idade = 17;
+            contaMaria.Numero = 2;            
+            contaMaria.Deposita(300);
+            MessageBox.Show("Saldo da conta" + contaMaria.Titular + " é de " + contaMaria.Saldo);
+            contaMaria.Saca(150.00);
+            MessageBox.Show("Saldo da conta" + contaMaria.Titular + " é de " + contaMaria.Saldo);
+
+            if (contaLeonardo.Saca(50.00))
+            {
+                MessageBox.Show("Sacado com Sucesso!");
+            }
+            else
+            {
+                MessageBox.Show("Não há saudo suficiente para saque!");
+            }
+
+            if (contaMaria.Saca(150.00))
+            {
+                MessageBox.Show("Sacado com Sucesso!");
+            }
+            else
+            {
+                MessageBox.Show("Não há saudo suficiente para saque!");
+            }
+
+
+
+
+        }
+
+        private void button12_Click(object sender, EventArgs e)
+        {
+            Conta contaMaria = new Conta();
+            Cliente cliente2 = new Cliente();
+            contaMaria.Titular = cliente2;
+            contaMaria.Titular.nome = "Maria";
+            contaMaria.Idade = 17;
+
+            if (cliente2.EhMaiorDeIdade())
+            {
+                MessageBox.Show("È maior de idade parabens!");
+            }
+            else
+            {
+                MessageBox.Show("Não é maior de idade se ferrou!");
+            }
+        }
     }
 }
 
