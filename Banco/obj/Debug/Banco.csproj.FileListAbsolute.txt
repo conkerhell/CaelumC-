@@ -1,0 +1,10 @@
+c:\users\csharp7358\documents\visual studio 2017\Projects\Banco\Banco\bin\Debug\Banco.exe.config
+c:\users\csharp7358\documents\visual studio 2017\Projects\Banco\Banco\bin\Debug\Banco.exe
+c:\users\csharp7358\documents\visual studio 2017\Projects\Banco\Banco\bin\Debug\Banco.pdb
+c:\users\csharp7358\documents\visual studio 2017\Projects\Banco\Banco\obj\Debug\Banco.Form1.resources
+c:\users\csharp7358\documents\visual studio 2017\Projects\Banco\Banco\obj\Debug\Banco.FormCadastroContas.resources
+c:\users\csharp7358\documents\visual studio 2017\Projects\Banco\Banco\obj\Debug\Banco.Properties.Resources.resources
+c:\users\csharp7358\documents\visual studio 2017\Projects\Banco\Banco\obj\Debug\Banco.csproj.GenerateResource.Cache
+c:\users\csharp7358\documents\visual studio 2017\Projects\Banco\Banco\obj\Debug\Banco.exe
+c:\users\csharp7358\documents\visual studio 2017\Projects\Banco\Banco\obj\Debug\Banco.pdb
+c:\users\csharp7358\documents\visual studio 2017\Projects\Banco\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
